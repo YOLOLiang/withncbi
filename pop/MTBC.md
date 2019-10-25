@@ -18,8 +18,8 @@
 | M. tuberculosis complex |                       |            |             |         |
 |                         | M. canetti            |      78331 | 卡氏分枝杆菌  |       9 |
 |                         | M. decipiens          |    1430326 |             |         |
-|                         | M. mungi              |    1844474 |             |         |
-|                         | M. orygis             |    1305738 |             |       1 |
+|                         | M. mungi              |    1844474 | 猫鼬分枝杆菌           |         |
+|                         | M. orygis             |    1305738 | 羚羊分枝杆菌          |       1 |
 |                         | M. tuberculosis       |       1773 | 结核分枝杆菌  |     196 |
 | M. avium complex        |                       |            |             |         |
 |                         | M. avium              |       1764 | 鸟分枝杆菌    |      56 |
@@ -44,9 +44,9 @@
 |:--------------------------------|-------:|:----------------|--------:|
 | M. tuberculosis var. africanum  |  33894 | 非洲分枝杆菌      |      26 |
 | M. tuberculosis var. bovis      |   1765 | 牛分枝杆菌, 卡介苗 |      22 |
-| M. tuberculosis var. caprae     | 115862 |                 |       1 |
+| M. tuberculosis var. caprae     | 115862 | 山羊分枝杆菌              |       1 |
 | M. tuberculosis var. microti    |   1806 | 仓鼠分枝杆菌      |       2 |
-| M. tuberculosis var. pinnipedii | 194542 |                 |       1 |
+| M. tuberculosis var. pinnipedii | 194542 | 海豹分枝杆菌             |       1 |
 
 * [Mycobacterium](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=1763)
 * [Mycobacterium tuberculosis complex](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=77643)
