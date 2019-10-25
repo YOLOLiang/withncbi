@@ -23,22 +23,22 @@
 |                         | M. tuberculosis       |       1773 | 结核分枝杆菌  |     196 |
 | M. avium complex        |                       |            |             |         |
 |                         | M. avium              |       1764 | 鸟分枝杆菌    |      56 |
-|                         | M. chimaera           |     222805 |             |         |
-|                         | M. colombiense        |     339268 |             |       1 |
+|                         | M. chimaera           |     222805 | 奇美拉分枝杆菌           |         |
+|                         | M. colombiense        |     339268 | 哥伦比亚分枝杆菌         |       1 |
 |                         | M. intracellulare     |       1767 | 胞内分枝杆菌  |       9 |
-|                         | M. mantenii           |     560555 |             |         |
-|                         | M. marseillense       |     701042 |             |         |
-|                         | M. paraintracellulare |    1138383 |             |         |
+|                         | M. mantenii           |     560555 | 曼滕分枝杆菌          |         |
+|                         | M. marseillense       |     701042 |马萨分枝杆菌           |         |
+|                         | M. paraintracellulare |    1138383 | 副胞内分枝杆菌            |         |
 | Others                  |                       |            |             |         |
 |                         | M. asiaticum          |       1790 | 亚洲分枝杆菌  |       1 |
 |                         | M. gordonae           |       1778 | 戈登分枝杆菌  |         |
-|                         | M. haemophilum        |      29311 |             |       1 |
+|                         | M. haemophilum        |      29311 | 嗜血分枝杆菌           |       1 |
 |                         | M. kansasii           |       1955 | 堪萨斯分枝杆菌 |       4 |
 |                         | M. leprae             |       1769 | 麻风分枝杆菌  |       5 |
 |                         | M. malmoense          |       1780 | 莫尔门分枝杆菌 |         |
 |                         | M. marinum            |       1781 | 海洋分枝杆菌  |       4 |
 |                         | M. marseillense       |     701042 |             |         |
-|                         | M. persicum           |    1487726 |             |         |
+|                         | M. persicum           |    1487726 | 波斯分枝杆菌           |         |
 
 | Subspecies                      |     ID | Comments        | Strains |
 |:--------------------------------|-------:|:----------------|--------:|
