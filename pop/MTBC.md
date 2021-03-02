@@ -24,44 +24,44 @@
 | M. tuberculosis complex |                       |            |               |         |
 |                         | M. canetti            |      78331 | 卡氏分枝杆菌    |       5 |
 |                         | M. decipiens          |    1430326 |               |         |
-|                         | M. mungi              |    1844474 |               |         |
-|                         | M. orygis             |    1305738 |               |       0 |
+|                         | M. mungi              |    1844474 | 猫鼬分枝杆菌  |         |
+|                         | M. orygis             |    1305738 | 羚羊分枝杆菌   |       0 |
 |                         | M. tuberculosis       |       1773 | 结核分枝杆菌    |     187 |
 | M. avium complex        |                       |            |               |         |
 |                         | M. avium              |       1764 | 鸟分枝杆菌      |       7 |
-|                         | M. chimaera           |     222805 |               |         |
-|                         | M. colombiense        |     339268 |               |       1 |
+|                         | M. chimaera           |     222805 | 奇美拉分枝杆菌     |         |
+|                         | M. colombiense        |     339268 | 哥伦比亚分枝杆菌  |       1 |
 |                         | M. intracellulare     |       1767 | 胞内分枝杆菌    |       8 |
-|                         | M. mantenii           |     560555 |               |         |
-|                         | M. marseillense       |     701042 |               |         |
+|                         | M. mantenii           |     560555 | 曼滕分枝杆菌   |         |
+|                         | M. marseillense       |     701042 | 马萨分枝杆菌  |         |
 |                         | M. paraintracellulare |    1138383 | 副胞内分枝杆菌   |         |
 | M. simiae complex       |                       |            |               |         |
-|                         | M. genavense          |      36812 |               |       1 |
-|                         | M. parascrofulaceum   |     240125 |               |       1 |
+|                         | M. genavense          |      36812 | 日内瓦分枝杆菌 |       1 |
+|                         | M. parascrofulaceum   |     240125 | 副瘰疬分枝杆菌  |       1 |
 |                         | M. simiae             |       1784 | 猿分支杆菌      |       1 |
 | Close to MSC            |                       |            |               |         |
 |                         | M. asiaticum          |       1790 | 亚洲分枝杆菌    |       1 |
-|                         | M. bohemicum          |       1998 | 波希米亚分枝杆菌 |       1 |
+|                         | M. bohemicum          |       1998 | 波西米亚分枝杆菌 |       1 |
 | Others                  |                       |            |               |         |
 |                         | M. gordonae           |       1778 | 戈登分枝杆菌    |         |
-|                         | M. haemophilum        |      29311 |               |       1 |
+|                         | M. haemophilum        |      29311 | 嗜血分枝杆菌   |       1 |
 |                         | M. kansasii           |       1955 | 堪萨斯分枝杆菌   |       4 |
 |                         | M. leprae             |       1769 | 麻风分枝杆菌    |       3 |
-|                         | M. liflandii          |     261524 |               |       1 |
+|                         | M. liflandii          |     261524 | 利夫兰分枝杆菌   |       1 |
 |                         | M. malmoense          |       1780 | 莫尔门分枝杆菌   |         |
 |                         | M. marinum            |       1781 | 海洋分枝杆菌    |       4 |
-|                         | M. persicum           |    1487726 |               |         |
-|                         | M. pseudoshottsii     |     265949 |               |       1 |
-|                         | M. ulcerans           |       1809 |               |       2 |
+|                         | M. persicum           |    1487726 | 波斯分枝杆菌   |         |
+|                         | M. pseudoshottsii     |     265949 | 假肖茨分枝杆菌   |       1 |
+|                         | M. ulcerans           |       1809 | 溃疡分枝杆菌  |       2 |
 |                         | M. xenopi             |       1789 | 蟾分枝杆菌      |       3 |
 
 | Subspecies                      |     ID | Comments        | Strains |
 |:--------------------------------|-------:|:----------------|--------:|
 | M. tuberculosis var. africanum  |  33894 | 非洲分枝杆菌      |      26 |
 | M. tuberculosis var. bovis      |   1765 | 牛分枝杆菌, 卡介苗 |      14 |
-| M. tuberculosis var. caprae     | 115862 |                 |       1 |
+| M. tuberculosis var. caprae     | 115862 | 山羊分枝杆菌  |       1 |
 | M. tuberculosis var. microti    |   1806 | 仓鼠分枝杆菌      |       1 |
-| M. tuberculosis var. pinnipedii | 194542 |                 |       1 |
+| M. tuberculosis var. pinnipedii | 194542 |  海豹分枝杆菌  |       1 |
 
 M. tuberculosis var. microti is distinct from other M. tuberculosis strains
 
